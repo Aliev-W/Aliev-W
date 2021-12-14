@@ -36,7 +36,7 @@
 <p align="left">
 <a href = "https://t.me/Aliev_571"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/></a>
 <a href = "https://www.instagram.com/Aliev_571/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href = "https://www.tiktok.com/aliev_2571/"><img src="https://img.icons8.com/ios-filled/50/000000/tiktok--v2.png"/>"/></a>
+    <a href = "https://www.tiktok.com/aliev_2571/"><img src="https://img.icons8.com/ios-filled/50/000000/tiktok--v2.png""/></a>
 
 
 </p>
