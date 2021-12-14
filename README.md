@@ -27,7 +27,7 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://img.icons8.com/ios/50/000000/adobe-xd--v2.png"/></a> 
+    <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-xd--v2.png"/></a> 
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v2.png"/></a>
      <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/></a> 
 </p>
@@ -36,7 +36,7 @@
 <p align="left">
 <a href = "https://t.me/Aliev_571"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/></a>
 <a href = "https://www.instagram.com/Aliev_571/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href = "https://www.tiktok.com/aliev_2571/"><img src="https://img.icons8.com/ios-filled/50/000000/tiktok--v2.png""/></a>
+<a href = "https://www.tiktok.com/aliev_2571/"><img src="https://img.icons8.com/ios-filled/50/000000/tiktok--v2.png"/></a>
 
 
 </p>
