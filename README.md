@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Frontend Developer and Web Designer from Uzbekistan.</h3>
 
 
-<img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/32/000000/external-developer-coding-kiranshastry-gradient-kiranshastry.png"/> <bold>About Me</bold>
+<img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/32/000000/external-developer-coding-kiranshastry-gradient-kiranshastry.png"/> <h3>About Me</h3>
 
 - 🌱 I’m currently learning **Design and Algorithms.**
 
