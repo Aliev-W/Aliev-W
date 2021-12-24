@@ -42,7 +42,7 @@
 
 </p>
 
-## ❤ Views and Followers
+ <img src="https://img.icons8.com/color/64/000000/filled-like.png"/> Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iar28">
 </a>
