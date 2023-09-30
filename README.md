@@ -22,6 +22,8 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000005/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>    
+    <a href="https://sass.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/> </a>
+    <a href="https://sass.com/" target="_blank"><img src="https://img.icons8.com/ios/48/000000/sass.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/nuxt-jc.png" alt="nuxt-jc"/> </a>
