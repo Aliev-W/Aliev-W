@@ -30,7 +30,6 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://sass.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/> </a>
-    <a href="https://sass.com/" target="_blank"><img src="https://img.icons8.com/ios/48/000000/sass.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://img.icons8.com/ios/48/000000/adobe-xd--v1.png"/> </a> 
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
